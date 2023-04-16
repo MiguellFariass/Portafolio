@@ -2,6 +2,9 @@ body{
 font-family: 'Roboto', sans-serif;
 }
 
+.logo{
+    height: 3em;
+}
 
 .black{
     color:#212529;
